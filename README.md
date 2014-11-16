@@ -12,5 +12,6 @@ The original project is started by EverFrozenMore
 access to a lot of resources, anyone is welcome 
 to provide input or even help out with the 
 project.  That can include the card design, 
-development, or even card art.  Any assistance 
-is very much appreciated! ^-^
+development, or even card art.  Even something 
+as seemingly innocent as a comment will be
+very much appreciated! ^-^
