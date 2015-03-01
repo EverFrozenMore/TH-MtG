@@ -1,18 +1,19 @@
+
 -=-=-{ Remilia's Deck -- [B/R] Vampires }-=-=-
-==================================
+==============================================
 --== Mana Base ==--
-----------------------------
+-------------------
 3x Bloodfell Caves
 10x Mountain
 10x Swamp
 --== TH-MtG Exclusives ==--
----------------------------------------
+---------------------------
 1x M-Remilia
 1x C-Remilia
 1x C-Flandre
 1x Spear the Gungnir
 --== Other Cards ==--
------------------------------
+---------------------
 1x Blood Bairn
 2x Bloodcrazed Neonate
 1x Bloodhunter Bat
@@ -46,11 +47,10 @@
 1x Underworld Connections
 
 
-
 -=-=-{ Yuyuko's Deck -- [W/B/G] Spirits }-=-=-
-==================================
+==============================================
 --== Mana Base ==--
-----------------------------
+-------------------
 2x Evolving Wilds
 7x Forest
 3x Plains
@@ -58,13 +58,13 @@
 8x Swamp
 2x Tainted Wood
 --== TH-MtG Exclusives ==--
----------------------------------------
+---------------------------
 1x M-Yuyuko
 1x C-Yuyuko
 1x Ghastly Dream
 1x Phantom Dinning
 --== Other Cards ==--
------------------------------
+---------------------
 2x Bile Urchin
 1x Forked-Branch Garami
 1x Ghoultree
