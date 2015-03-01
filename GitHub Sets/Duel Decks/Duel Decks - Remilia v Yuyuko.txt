@@ -1,0 +1,96 @@
+-=-=-{ Remilia's Deck -- [B/R] Vampires }-=-=-
+==================================
+--== Mana Base ==--
+----------------------------
+3x Bloodfell Caves
+10x Mountain
+10x Swamp
+--== TH-MtG Exclusives ==--
+---------------------------------------
+1x M-Remilia
+1x C-Remilia
+1x C-Flandre
+1x Spear the Gungnir
+--== Other Cards ==--
+-----------------------------
+1x Blood Bairn
+2x Bloodcrazed Neonate
+1x Bloodhunter Bat
+1x Crossway Vampire
+1x Duskmantle Prowler
+1x Gurmag Swiftwing
+1x Havengul Vampire
+1x Kalastria Highborn
+1x Markov Patrician
+1x Pulse Tracker
+1x Rakish Heir
+1x Shadow Alley Denizen
+1x Stalking Bloodsucker
+2x Stromkirk Captain
+1x Stromkirk Patrol
+1x Vampire Interloper
+1x Vampire Nighthawk
+1x Aggravate
+1x Brimstone Volley
+1x Dark Withering
+1x Magma Spray
+1x Searing Spear
+1x Urge to Feed
+2x Vampiric Fury
+1x Victim of Night
+1x Devil's Play
+1x Mizzium Mortars
+1x Tormenting Voice
+1x Traitorous Blood
+1x Strength of Lunacy
+1x Underworld Connections
+
+
+
+-=-=-{ Yuyuko's Deck -- [W/B/G] Spirits }-=-=-
+==================================
+--== Mana Base ==--
+----------------------------
+2x Evolving Wilds
+7x Forest
+3x Plains
+2x Sandsteppe Citadel
+8x Swamp
+2x Tainted Wood
+--== TH-MtG Exclusives ==--
+---------------------------------------
+1x M-Yuyuko
+1x C-Yuyuko
+1x Ghastly Dream
+1x Phantom Dinning
+--== Other Cards ==--
+-----------------------------
+2x Bile Urchin
+1x Forked-Branch Garami
+1x Ghoultree
+1x Harbinger of Spring
+1x Haru-Onna
+1x Hollowhenge Spirit
+1x Kami of Empty Graves
+1x Kami of the Tended Garden
+1x Lost Soul
+1x Martyred Rusalka
+1x Morkrut Banshee
+1x Spectral Force
+1x Splinterfright
+1x Strangleroot Geist
+1x Voiceless Spirit
+1x Wall of Blossoms
+1x Wall of Reverence
+1x Will-o'-the-Wisp
+1x Altar's Reap
+1x Death Rattle
+1x Gnaw to the Bone
+2x Grisly Salvage
+1x Harrow
+1x Reclaim
+2x Smother
+1x Tragic Slip
+1x Ghoulcaller's Bell
+1x Deadly Allure
+1x Lingering Souls
